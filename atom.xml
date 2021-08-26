@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>PSW95's BLOG</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>jekyll로 - 블로그 만들기</title>
+        
+          <description>&lt;p&gt;jekyll 사용해서 블로그 만들기&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 07 Aug 2021 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/jekyll-basic</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python 중간프로젝트</title>
+        
+          <description>&lt;!-- 목차 넣고 싶으면 아래 include 파일 만들어서 추가
+&lt;span class=&quot;table-of-contents-list&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-omok&quot;&gt;1. python 오목&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-middle-project&quot;&gt;2. python 중간프로젝트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+--&gt;
+&lt;!--간단하게 코드 넣고 싶으면 아래처럼 ~~~ 넣기
+~~~javascript
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+~~~
+--&gt;
+
+</description>
+        
+        <pubDate>Fri, 21 May 2021 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/python-middle-project</link>
+        <guid isPermaLink="true">http://localhost:4000/python-middle-project</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>스프링 [개발원]최종프로젝트</title>
+        
+          <description>&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&amp;amp;logo=Eclipse&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/java-007396?style=flat-square&amp;amp;logo=java&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&amp;amp;logo=oracle&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+
+&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 23 Jun 2020 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/finalProject</link>
+        <guid isPermaLink="true">http://localhost:4000/finalProject</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python으로 오목 만들기</title>
+        
+          <description>&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+</description>
+        
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/python-omok</link>
+        <guid isPermaLink="true">http://localhost:4000/python-omok</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>C# 좀비게임</title>
+        
+          <description>&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-dodge&quot;&gt;1. dodge 게임&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-zombie&quot;&gt;2. zombie 게임&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;amp;logo=unity&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;amp;logo=c-sharp&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;font-size: 15px;&quot;&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;img style=&quot;width: 300px; margin: 0px 20px;&quot; src=&quot;../../assets/built/images/CsharpImage/zombie.png&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+        1. c#, unity를 이용해서 만든 좀비게임이다.&lt;br /&gt;
+        2. 이전의 닷지게임보다 조금 더 복잡하고, 객체지향의 개념에 대해서 조금 더 배울 수 있었다.&lt;br /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;[구현한 좀비게임(GIF)]
+&lt;/div&gt;
+&lt;p style=&quot;margin: 0px&quot;&gt;
+&lt;img style=&quot;width: 500px; margin-top: 15px; &quot; src=&quot;../../assets/built/images/CsharpImage/zombie_play.gif&quot; /&gt;
+&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 30 Aug 2019 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/csharp-zombie</link>
+        <guid isPermaLink="true">http://localhost:4000/csharp-zombie</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>C# 닷지게임</title>
+        
+          <description>&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-dodge&quot;&gt;1. dodge 게임&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-zombie&quot;&gt;2. zombie 게임&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;amp;logo=unity&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;amp;logo=c-sharp&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;font-size: 15px;&quot;&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;img style=&quot;width: 300px; margin: 0px 20px;&quot; src=&quot;../../assets/built/images/CsharpImage/dodge.png&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+        1. c#, unity를 이용해서 만든 닷지게임이다.&lt;br /&gt;
+        2. 컴포넌트의 개념이 중요한데 처음 만들때라 이해가 아직 필요하다.&lt;br /&gt;
+        3. 게임을 만들어보고 싶었는데 책을 따라하다 보니까 코드도 어떻게 쓰는지 알게되고, 수학적 지식이 많이 필요하다는 것을 많이 느꼈다.
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;[구현한 닷지게임(GIF)]
+&lt;/div&gt;
+&lt;p style=&quot;margin: 0px&quot;&gt;
+&lt;img style=&quot;width: 500px; margin-top: 15px; &quot; src=&quot;../../assets/built/images/CsharpImage/dodge_play.gif&quot; /&gt;
+&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 20 Aug 2019 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/csharp-dodge</link>
+        <guid isPermaLink="true">http://localhost:4000/csharp-dodge</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

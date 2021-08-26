@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/csharp/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-08-27T00:29:22+09:00</updated>
+  <id>http://localhost:4000/tag/csharp/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">BLOG | </title>
+  
+
+  
+    <subtitle>PSW95's BLOG</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">C# 좀비게임</title>
+      <link href="http://localhost:4000/csharp-zombie" rel="alternate" type="text/html" title="C# 좀비게임" />
+      <published>2019-08-30T00:00:00+09:00</published>
+      <updated>2019-08-30T00:00:00+09:00</updated>
+      <id>http://localhost:4000/csharp-zombie</id>
+      <content type="html" xml:base="http://localhost:4000/csharp-zombie">&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-dodge&quot;&gt;1. dodge 게임&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-zombie&quot;&gt;2. zombie 게임&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;amp;logo=unity&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;amp;logo=c-sharp&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;font-size: 15px;&quot;&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;img style=&quot;width: 300px; margin: 0px 20px;&quot; src=&quot;../../assets/built/images/CsharpImage/zombie.png&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+        1. c#, unity를 이용해서 만든 좀비게임이다.&lt;br /&gt;
+        2. 이전의 닷지게임보다 조금 더 복잡하고, 객체지향의 개념에 대해서 조금 더 배울 수 있었다.&lt;br /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;[구현한 좀비게임(GIF)]
+&lt;/div&gt;
+&lt;p style=&quot;margin: 0px&quot;&gt;
+&lt;img style=&quot;width: 500px; margin-top: 15px; &quot; src=&quot;../../assets/built/images/CsharpImage/zombie_play.gif&quot; /&gt;
+&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ParkSeWoong95</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="csharp" />
+      
+
+      
+        <summary type="html">1. dodge 게임 2. zombie 게임 &amp;nbsp;사용툴: &amp;nbsp; 1. c#, unity를 이용해서 만든 좀비게임이다. 2. 이전의 닷지게임보다 조금 더 복잡하고, 객체지향의 개념에 대해서 조금 더 배울 수 있었다. [구현한 좀비게임(GIF)]</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">C# 닷지게임</title>
+      <link href="http://localhost:4000/csharp-dodge" rel="alternate" type="text/html" title="C# 닷지게임" />
+      <published>2019-08-20T00:00:00+09:00</published>
+      <updated>2019-08-20T00:00:00+09:00</updated>
+      <id>http://localhost:4000/csharp-dodge</id>
+      <content type="html" xml:base="http://localhost:4000/csharp-dodge">&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-dodge&quot;&gt;1. dodge 게임&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./csharp-zombie&quot;&gt;2. zombie 게임&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&amp;amp;logo=unity&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;amp;logo=c-sharp&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;font-size: 15px;&quot;&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;img style=&quot;width: 300px; margin: 0px 20px;&quot; src=&quot;../../assets/built/images/CsharpImage/dodge.png&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+        1. c#, unity를 이용해서 만든 닷지게임이다.&lt;br /&gt;
+        2. 컴포넌트의 개념이 중요한데 처음 만들때라 이해가 아직 필요하다.&lt;br /&gt;
+        3. 게임을 만들어보고 싶었는데 책을 따라하다 보니까 코드도 어떻게 쓰는지 알게되고, 수학적 지식이 많이 필요하다는 것을 많이 느꼈다.
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;[구현한 닷지게임(GIF)]
+&lt;/div&gt;
+&lt;p style=&quot;margin: 0px&quot;&gt;
+&lt;img style=&quot;width: 500px; margin-top: 15px; &quot; src=&quot;../../assets/built/images/CsharpImage/dodge_play.gif&quot; /&gt;
+&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ParkSeWoong95</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="csharp" />
+      
+
+      
+        <summary type="html">1. dodge 게임 2. zombie 게임 &amp;nbsp;사용툴: &amp;nbsp; 1. c#, unity를 이용해서 만든 닷지게임이다. 2. 컴포넌트의 개념이 중요한데 처음 만들때라 이해가 아직 필요하다. 3. 게임을 만들어보고 싶었는데 책을 따라하다 보니까 코드도 어떻게 쓰는지 알게되고, 수학적 지식이 많이 필요하다는 것을 많이 느꼈다. [구현한 닷지게임(GIF)]</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

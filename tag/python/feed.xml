@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/python/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-08-27T00:29:22+09:00</updated>
+  <id>http://localhost:4000/tag/python/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">BLOG | </title>
+  
+
+  
+    <subtitle>PSW95's BLOG</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Python 중간프로젝트</title>
+      <link href="http://localhost:4000/python-middle-project" rel="alternate" type="text/html" title="Python 중간프로젝트" />
+      <published>2021-05-21T00:00:00+09:00</published>
+      <updated>2021-05-21T00:00:00+09:00</updated>
+      <id>http://localhost:4000/python-middle-project</id>
+      <content type="html" xml:base="http://localhost:4000/python-middle-project">&lt;!-- 목차 넣고 싶으면 아래 include 파일 만들어서 추가
+&lt;span class=&quot;table-of-contents-list&quot;&gt;&lt;/span&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-omok&quot;&gt;1. python 오목&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-middle-project&quot;&gt;2. python 중간프로젝트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+--&gt;
+&lt;!--간단하게 코드 넣고 싶으면 아래처럼 ~~~ 넣기
+~~~javascript
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+~~~
+--&gt;
+
+&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-omok&quot;&gt;1. python 오목&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-middle-project&quot;&gt;2. python 중간프로젝트&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&amp;amp;logo=Eclipse&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;amp;logo=python&amp;amp;logoColor=ffdd54&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&amp;amp;logo=oracle&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+&lt;/p&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;font-size: 15px;&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        1. 중간프로젝트는 기본 CRUD 연습을 했던 프로젝트였다. &lt;br /&gt;
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- dao에서 직접 connection pool을 만들어서 DB와 연동함.&lt;br /&gt;
+        2. 파이썬은 익숙하지가 않았다...
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;[구현 중간프로젝트(GIF)]
+&lt;/div&gt;
+&lt;p style=&quot;margin: 0px; margin-top: 10px;&quot;&gt;
+&lt;img style=&quot;width: 800px; margin: 0px 20px;&quot; src=&quot;assets/built/images/PythonImage/middleProject.gif&quot; /&gt;
+&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ParkSeWoong95</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python으로 오목 만들기</title>
+      <link href="http://localhost:4000/python-omok" rel="alternate" type="text/html" title="Python으로 오목 만들기" />
+      <published>2020-03-01T00:00:00+09:00</published>
+      <updated>2020-03-01T00:00:00+09:00</updated>
+      <id>http://localhost:4000/python-omok</id>
+      <content type="html" xml:base="http://localhost:4000/python-omok">&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&amp;amp;logo=Eclipse&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;amp;logo=python&amp;amp;logoColor=ffdd54&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&amp;amp;logo=oracle&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;font-size: 15px;&quot;&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+&lt;img style=&quot;width: 300px; margin: 0px 20px;&quot; src=&quot;assets/built/images/PythonImage/omok-background.png&quot; /&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;col-sm-6&quot;&gt;
+        1. 오목판,흑돌,백돌 png&lt;br /&gt;
+        2. gui 프로그램은 pyqt5를 사용&lt;br /&gt;
+        3. 학생들이 직접 오목을 두고, 두었던 좌표를 모두 DB에 저장하고 데이터 가공을 하여 빅데이터로 만들었지만 현재 코드에는 구현X
+            &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;- 파이썬은 인공지능을 공부하려면 필수언어이다. 
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;[실제 구현한 오목(GIF)]
+&lt;/div&gt;
+&lt;p style=&quot;margin: 0px&quot;&gt;
+&lt;img style=&quot;width: 500px; margin-top: 15px; &quot; src=&quot;assets/built/images/PythonImage/omok.gif&quot; /&gt;
+&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ParkSeWoong95</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

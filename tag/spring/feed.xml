@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/spring/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-08-27T00:29:22+09:00</updated>
+  <id>http://localhost:4000/tag/spring/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">BLOG | </title>
+  
+
+  
+    <subtitle>PSW95's BLOG</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">스프링 [개발원]최종프로젝트</title>
+      <link href="http://localhost:4000/finalProject" rel="alternate" type="text/html" title="스프링 [개발원]최종프로젝트" />
+      <published>2020-06-23T00:00:00+09:00</published>
+      <updated>2020-06-23T00:00:00+09:00</updated>
+      <id>http://localhost:4000/finalProject</id>
+      <content type="html" xml:base="http://localhost:4000/finalProject">&lt;style&gt;
+.badge-img{
+width: auto;
+height: auto;
+}
+&lt;/style&gt;
+
+&lt;p class=&quot;col-sm-4&quot; style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;i class=&quot;far fa-dot-circle&quot;&gt;&lt;/i&gt;&amp;nbsp;사용툴: &amp;nbsp;&lt;/span&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&amp;amp;logo=Eclipse&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/java-007396?style=flat-square&amp;amp;logo=java&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+        &lt;img class=&quot;badge-img&quot; src=&quot;https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&amp;amp;logo=oracle&amp;amp;logoColor=white&quot; style=&quot;margin: 4px;!important;&quot; /&gt;
+
+&lt;/p&gt;
+&lt;div class=&quot;row&quot; style=&quot;font-size: 15px;&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        1. java-Spring 프레임워크를 사용하여 만들었다.&lt;br /&gt;
+        2. 카카오 api, 리그오브레전드 api를 사용했다.&lt;br /&gt;
+        3. bootStrap4, fontAwesome5를 사용하여 화면만듬.&lt;br /&gt;
+        4. 기능구현: 정보수정, 후기작성, 페이징, 검색처리 
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;[구현 최종프로젝트(GIF)]
+&lt;/div&gt;
+&lt;p style=&quot;margin: 0px&quot;&gt;
+&lt;img style=&quot;width: 500px; margin-top: 15px; &quot; src=&quot;assets/built/images/SpringImage/brownie_play.gif&quot; /&gt;
+&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>ParkSeWoong95</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="spring" />
+      
+
+      
+        <summary type="html">&amp;nbsp;사용툴: &amp;nbsp;</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
